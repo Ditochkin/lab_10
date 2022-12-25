@@ -1,0 +1,7 @@
+coco128
+imgs
+VOCdevkit
+*.csv
+*.pkl
+*.img
+.ipynb_checkpoints
